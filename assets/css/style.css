@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:wght@500&display=swap');
+
+body{
+    /* font-family: 'Poppins', sans-serif; */
+}
+
+
+a, a:link,a:visited{
+    color : white !important;
+    text-decoration: none;
+}
+
+h1{
+    margin-bottom: 1.5rem;
+}
+
+ul, ol{
+    list-style: none;   
+}
+
+h1{
+    font-size: 2.5rem;
+}
+
+.cus-container {
+    margin: 0 4.5rem 0;
+}
+
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+    background: #F68409;
+}
+
+.owl-theme .owl-dots .owl-dot span,
+.owl-theme .owl-dots .owl-dot span{
+    border-radius: 0%;
+}
+
+.navbar img {
+    width: 100%;
+}
+
+.navbar .btn {
+    background: #F68409;
+    color: #ffff;
+}
+
+.flex-alignment {
+    justify-content: space-between;
+}
+
+header {
+    background-color: #066DAB;
+    padding: 3px;
+}
+
+header li a{
+    color : white !important;
+    font-weight: 500;
+    /* font-size: ; */
+
+}
+
+.banner img {
+    width: 100%;
+}
+
+/* -------------------------------------- about us --------------------------------------------- */
+
+
+.about-us p {
+    font-size: 1.125rem;
+    line-height: 1.8;
+    font-weight: 400;
+}
+
+
+/* ---------------------------------------------------- academy ------------------------------------- */
+.achievements {
+    background-color: #FEF4E8;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin-top: 2rem;
+}
+
+.achievements h2 {
+    color: #FF7D00;
+    font-size: 4rem;
+    font-weight: 800;
+    margin-top: 1rem;
+
+}
+
+.achievements p{
+    font-weight: 600;
+    font-size: 1.25rem;
+}
+
+/* ---------------------------------------- acadmy ------------------------ */
+.academy{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.academy p{
+    font-size: 1rem;
+    font-weight: 400;
+    margin-bottom: 3rem;
+    margin-top: 1rem;
+}
+
+.academy figure {
+    min-height: 25rem;
+    box-shadow: -3px 9px 13px -5px rgb(0, 0, 0, .3);
+}
+
+.academy figcaption{
+    font-weight: 600;
+    line-height: 1;
+    font-size: 11px;
+}
+
+.academy span{
+    display: block;
+    text-align: center;
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+/* --------------------------------------- research --------------------------------- */
+
+.research h1{
+    margin-bottom: 2    rem;
+}
+
+.research .owl-carousel.owl-theme.owl-loaded.owl-drag {
+    box-shadow: 4px 7px 7px 0px rgba(0,0,0,0.2);
+}
+
+/* --------------------------------------- program --------------------------------- */
+
+.program {
+    background-color: #FEF4E8;
+    margin-top: 2rem !important;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.program p span{
+    /* font-size: 1; */
+    color : black;
+    font-weight: 600;
+    line-height: 1;
+}
+
+/* -----------------------------------------------------------fees----------------------------------------- */
+
+.fess h3 {
+    color: #066DAB;
+    font-size: 40px;
+    margin-bottom: 1.5rem !important;
+}
+
+.fess li{
+    font-weight: 400;
+    font: 1rem;
+}
+
+/* ------------------------------------------- dates---------------------------------------- */
+
+.dates h5{
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+.dates p{
+    font-weight: 300 !important;
+}
+
+.dates p span{
+    color : #FFEB3B;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+/* ---------------------------------------infrastructure------------------------------------------ */
+.infrastructure{
+    margin-top: 3rem;
+}
+.infrastructure .infrastructure-box h4{
+    font-weight: 600;
+    color : #fff;
+}
+
+.infrastructure .infrastructure-box p{
+    font-weight: 300;
+    color : #fff;
+}
+
+.infrastructure-box{
+    background-color: #066DAB;
+    padding : 1rem !important;
+}
+
+/* --------------------------------------------- placement ----------------------------------------------------- */
+
+.placement{
+    margin-top : 3rem;
+    margin-bottom : 3rem;
+}
+
+.placement p{
+    margin-top : 1.5rem;
+    font-weight: 500;
+}
+
+
+.contact_us{
+    padding-top:3rem;
+    /* padding-bottom: 1rem; */
+}
+
+.contact_us h2{
+    color : #fff;
+}
+
+.contact_us li{
+    font-weight: 300;
+    color : #fff;
+}
+
+.contact_us p{
+    font-weight: 300;
+    color: #fff;
+    margin-top: 2rem;
+}
+
+.circle_rounded {
+    margin-right: 8px;
+    background-color: #F68409;
+    padding: 5px;
+    border-radius: 50%;
+    color: white;
+}
+
+iframe{
+    width : 100%;
+}
+
+.contact_us{
+    background-color: #066DAB;
+}
+
+
+footer{
+    background-color: #000;
+}
+
+
+footer p{
+    font-weight: 300;
+}

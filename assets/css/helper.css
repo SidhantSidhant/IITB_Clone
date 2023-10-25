@@ -1,0 +1,13 @@
+
+ul,ol{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1{
+   color: #066DAB;
+    font-size: 3.75rem;
+}

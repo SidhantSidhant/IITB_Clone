@@ -1,0 +1,49 @@
+
+
+@media all and (max-width : 776px) {
+
+    h1,
+    h2,
+    p {
+        font-size: 16px !important;
+    }
+
+    .flex-alignment img {
+        width: 100%;
+    }
+}
+
+@media all and (min-width : 776px) and (max-width : 992px) {
+    .flex-alignment img {
+        width: 100%;
+    }
+}
+
+@media all and (min-width : 992px) and (max-width : 1200px) {}
+
+@media all and (min-width : 992px){
+    .navbar{
+        position: relative;
+    }
+    .button-positon{
+        position: absolute;
+        right : 0;
+    }
+}
+
+@media all and (min-width : 1200px) {
+    .infrastructure img{
+        width : 50% !important;
+    }
+
+    .contact_us iframe{
+      margin-top : 6rem;
+      height: 13rem;
+    }
+    .contact_us h2{
+        color : #fff;
+        margin-bottom: 3rem;
+        font-weight: 600;
+    }
+    
+}
